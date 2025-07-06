@@ -1,4 +1,4 @@
-# CLASE-GENETICA
+# CLASE-GENETICA 🧬
 Repositorio Didáctico de Genética Básica
 
 Bienvenido/a al Repositorio de Genética Básica
@@ -8,7 +8,7 @@ Aquí encontrarás:
 1. Presentaciones y apuntes del curso
 2. Lecturas recomendadas y artículos de divulgación
 3. Protocolos de prácticas de laboratorio
-4. Ejercicios, problemas y guías de autoevaluación
+4. Ejercicios y problemas 
 5. Material multimedia (videos, esquemas, infografías)
 
 Este repositorio forma parte de un esfuerzo por promover el acceso abierto al conocimiento y apoyar el aprendizaje activo, colaborativo y basado en la indagación.
